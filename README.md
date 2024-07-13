@@ -12,7 +12,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,tailwind" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,c,c++,mongodb,c,java,nextjs,mysql,npm" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,c,cpp,mongodb,java,nextjs,mysql,npm" /><br>
 </div>
 
 <br/>
