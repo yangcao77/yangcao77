@@ -29,7 +29,7 @@
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
-  <br>
+  <br>![snake gif](https://github.com/ZiyangWangGit/ZiyangWangGit/blob/output/github-contribution-grid-snake.gif)
   
   <br/><br/><br/>
 </div>
